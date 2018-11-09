@@ -74,7 +74,7 @@
       "name": "next",
       "next": [
         {
-          "condition": "state.count >= 3",
+          "condition": "state.count >= 5",
           "node": "over"
         },
         {
@@ -88,7 +88,12 @@
     {
       "id": "25e5cd0fbe",
       "name": "over",
-      "next": [],
+      "next": [
+        {
+          "condition": "true",
+          "node": "ask-me"
+        }
+      ],
       "onEnter": [
         "say #!text-zss1Nr"
       ],
@@ -107,6 +112,17 @@
         "say #!text-kFIEdO"
       ],
       "onReceive": null
+    },
+    {
+      "id": "c9a4d12c88",
+      "name": "ask-me",
+      "next": [],
+      "onEnter": [
+        "say #!text-cVjiWv"
+      ],
+      "onReceive": [
+        "say #!text-6LPhGp"
+      ]
     }
   ]
 }

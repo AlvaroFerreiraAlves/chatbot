@@ -2,10 +2,9 @@
   {
     "id": "text-7jyHxa",
     "formData": {
-      "text": "Olá vamos começar o jogo",
+      "text": " Que comece o jogo! Eu vou te fazer algumas perguntas",
       "variations": [
-        "Let the game begin! I'll ask you 3 questions",
-        "Oi, iremos começar"
+        "Vamos começar! Vai ser divertido"
       ],
       "typing": true,
       "done": true
@@ -16,7 +15,7 @@
   {
     "id": "text-~Y4F~Z",
     "formData": {
-      "text": "You rock! That was the good answer",
+      "text": " Você é demais! Essa foi resposta correta",
       "typing": true
     },
     "createdBy": "admin",
@@ -25,7 +24,7 @@
   {
     "id": "text-cTkerJ",
     "formData": {
-      "text": "Nope, that wasn't the right answer 😅",
+      "text": " Não, essa não foi a resposta certa 😅",
       "typing": true
     },
     "createdBy": "admin",
@@ -34,7 +33,7 @@
   {
     "id": "text-zss1Nr",
     "formData": {
-      "text": "The game ended, you scored {{state.score}} / {{state.count}}",
+      "text": " O jogo terminou, você marcou {{state.score}} / {{state.count}}",
       "typing": true
     },
     "createdBy": "admin",
@@ -43,10 +42,28 @@
   {
     "id": "text-kFIEdO",
     "formData": {
-      "text": "Let's see if you can answer this one...",
+      "text": " Vamos ver se você pode responder isso...",
       "typing": true
     },
     "createdBy": "admin",
     "createdOn": "2018-02-12T22:43:25.093Z"
+  },
+  {
+    "id": "text-cVjiWv",
+    "formData": {
+      "text": " Como devo chamá-lo ?",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-11-09T15:19:02.253Z"
+  },
+  {
+    "id": "text-6LPhGp",
+    "formData": {
+      "text": "Obrigado {{event.text}}! até a próxima.",
+      "typing": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2018-11-09T15:22:53.115Z"
   }
 ]

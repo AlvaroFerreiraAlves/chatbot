@@ -2,12 +2,11 @@
   {
     "id": "trivia-U_3sZz",
     "formData": {
-      "question": "7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?",
-      "good": "The Simpsons Movie",
+      "question": "O churrasco é uma comida típica de qual região do Brasil?",
+      "good": "Região Sul",
       "bad": [
-        "Batman: The Dark Knight",
-        "Alice in Wonderland",
-        "Starbuck"
+        "Região Nordeste",
+        "Região Norte"
       ]
     },
     "createdBy": "admin",
@@ -16,12 +15,12 @@
   {
     "id": "trivia-DEiIPP",
     "formData": {
-      "question": "Famous for their work on modernist furniture design, Charles and Ray Eames were related how?",
-      "good": "Husband / Wife",
+      "question": " Qual o nome do presidente do Brasil que ficou conhecido como Jango?",
+      "good": "João Goulart",
       "bad": [
-        "Brothers / Sisters",
-        "Cousins",
-        "Step brothers / sisters"
+        "João Figueiredo",
+        "Getúlio Vargas",
+        "Jânio Quadros"
       ]
     },
     "createdBy": "admin",
@@ -30,12 +29,14 @@
   {
     "id": "trivia-wImL3f",
     "formData": {
-      "question": "A 1985 North Atlantic expedition led by Robert Ballard discovered the wreck of what famous ship 73 years after it sank?",
-      "good": "Titanic",
+      "question": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+      "good": " Tipo O",
       "bad": [
-        "American Queen",
-        "Andrea Gail",
-        "USS Arizona"
+        "Tipo A",
+        "Tipo B",
+        "Tipo O",
+        "Tipo AB",
+        "Tipo ABO"
       ]
     },
     "createdBy": "admin",
@@ -44,10 +45,12 @@
   {
     "id": "trivia-zsfQQm",
     "formData": {
-      "question": "A 2006 study of phone conversations found that which statement was meant sarcastically 23 percent of the time?",
-      "good": "\"Yeah, right\"",
+      "question": "Qual o maior animal terrestre?",
+      "good": "Elefante africano",
       "bad": [
-        "\"That's great\""
+        "Dinossauro",
+        "Girafa",
+        "Baleia Azul"
       ]
     },
     "createdBy": "admin",
@@ -56,12 +59,12 @@
   {
     "id": "trivia-dd3RQE",
     "formData": {
-      "question": "A 2011 box set celebrates the 13-film collaboration between composer Danny Elfman and what film director?",
-      "good": "Tim Burton",
+      "question": "Qual a montanha mais alta do Brasil?",
+      "good": "Pico da Neblina",
       "bad": [
-        "Steven Spielberg",
-        "George Lucas",
-        "Ridley Scott"
+        "Pico Paraná",
+        "Monte Roraima",
+        "Pico da Bandeira"
       ]
     },
     "createdBy": "admin",
@@ -70,11 +73,12 @@
   {
     "id": "trivia-9Jn6J2",
     "formData": {
-      "question": "A 20th-century fashion icon, Gabrielle Chanel was better known by what nickname?",
-      "good": "COCO",
+      "question": "Quantas casas decimais tem o número pi",
+      "good": "Trilhares",
       "bad": [
-        "Chanel",
-        "Number Five"
+        "Milhares",
+        "Vinte",
+        "Centenas"
       ]
     },
     "createdBy": "admin",
@@ -83,10 +87,12 @@
   {
     "id": "trivia-question-59ti3t",
     "formData": {
-      "question": "Quem é o atual presidente do Brasil",
-      "good": "Temer",
+      "question": "Qual o livro mais vendido no mundo a seguir à Bíblia?",
+      "good": "Dom Quixote",
       "bad": [
-        "Lula"
+        "O Pequeno Príncipe",
+        "Um Conto de Duas Cidades",
+        "O Senhor dos Anéis"
       ]
     },
     "createdBy": "admin",
